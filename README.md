@@ -2,6 +2,6 @@
 
 - Estado: En obra gris.
 
-Para ejecutar el sistema, debes poner:
+Para ejecutar el sistema, debes ejecutar:
 
 ```npm install react```
